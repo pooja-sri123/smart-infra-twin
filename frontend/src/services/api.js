@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:8000";
+const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
 export async function fetchHealth() {
   const res = await fetch(`${API_BASE}/api/health`);
@@ -47,7 +47,7 @@ export function createTelemetryWebSocket(onMessage, onStatusChange) {
   let reconnectTimeout = null;
 
   function connect() {
-    const wsUrl = "ws://localhost:8000/ws/telemetry";
+    const wsUrl = `${API_BASE.replace(/^http/, "ws")}/ws/telemetry`;
     ws = new WebSocket(wsUrl);
 
     ws.onopen = () => {
