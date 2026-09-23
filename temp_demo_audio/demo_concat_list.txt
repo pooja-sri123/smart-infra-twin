@@ -1,0 +1,8 @@
+file 'C:/Users/Pisari pooja/.gemini/antigravity/scratch/smart-infra-twin/temp_demo_audio/demo_1.mp3'
+file 'C:/Users/Pisari pooja/.gemini/antigravity/scratch/smart-infra-twin/temp_demo_audio/demo_2.mp3'
+file 'C:/Users/Pisari pooja/.gemini/antigravity/scratch/smart-infra-twin/temp_demo_audio/demo_3.mp3'
+file 'C:/Users/Pisari pooja/.gemini/antigravity/scratch/smart-infra-twin/temp_demo_audio/demo_4.mp3'
+file 'C:/Users/Pisari pooja/.gemini/antigravity/scratch/smart-infra-twin/temp_demo_audio/demo_5.mp3'
+file 'C:/Users/Pisari pooja/.gemini/antigravity/scratch/smart-infra-twin/temp_demo_audio/demo_6.mp3'
+file 'C:/Users/Pisari pooja/.gemini/antigravity/scratch/smart-infra-twin/temp_demo_audio/demo_7.mp3'
+file 'C:/Users/Pisari pooja/.gemini/antigravity/scratch/smart-infra-twin/temp_demo_audio/demo_8.mp3'
